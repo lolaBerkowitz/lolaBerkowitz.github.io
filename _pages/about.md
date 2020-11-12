@@ -10,14 +10,15 @@ redirect_from:
 
 Hello and welcome
 ======
-Hello and Bonjour! I'm a native Californian who's been living in the high desert of Albuquerque, New Mexico since 2015. You can call me Laura. Aside from science, I am all about  
+Hello and Bonjour! I'm a native Californian who's been living in the high desert of Albuquerque, New Mexico since 2015. You can call me Laura (she/her). Aside from my fondness of attractor dynamics and ephys, I'm all about local coffee roasters, vivid hair colors, and growing my own food. 
+
+This website serves to summarize my work in translational neuroscience. Peruse the pages and click the links to papers/talks. If you are actually here for a tutorial on hot pink hair dye - DM me. I totally got you. Otherwise, happy browsing.   
 
 Research Interests
 ------
+Animals are capable of extrodinary behaviors, and spatial navigation is one of them. Certain species of ants can wander miles from their hive, meandering from area to area, and yet make a b-line path on the way back. Somehow, these ants are able to keep track of their current location and the location of their hive and make accurate computations to predict the shortest path home. This phenomena, known as path integration, is present across animal species.  
 
-I am a PhD candidate at the University of New Mexico and I study the neural circuity that is thought to support spatial navigation and spatial orientation. 
-What fascinates me most about this topic is how internally generated senses, such as self-motion or head translation, interact with external sensory inputs, such as vision, to create stable representations of position within an environment. I use both detailed behavioral analysis and in-vivo electrophysiological techniques to answer questions relating to *1.) How animals interact with prominant environemntal cues during spatial navigation or exploration* and *2.) How the firing dynamics of populations of neurons change as a function of environment.* Additionally, I am also investigating how altered functioning of these neural systems may result in spatial disorientation, specifically related to Alzheimer’s disease. My disseration work aims to describe the functional consequences of Alzheimer’s disease pathology on the attractor dynamics in the TgF344-AD rat model of Alzheimer’s disease.
-
+I study the neural circuity that is thought to support spatial navigation and spatial orientation. What fascinates me most about this topic is how internally generated senses, such as self-motion or head translation, interact with external sensory inputs, such as vision, to create stable representations of position within an environment. I use both detailed behavioral analysis and in-vivo electrophysiological techniques to answer questions relating to *1.) How animals interact with prominant environemntal cues during spatial navigation or exploration* and *2.) How the firing dynamics of populations of neurons change as a function of environment.* Additionally, I am also investigating how altered functioning of these neural systems may result in spatial disorientation, specifically related to Alzheimer’s disease. My disseration work aims to describe the functional consequences of Alzheimer’s disease pathology on the attractor dynamics in the TgF344-AD rat model of Alzheimer’s disease.
 
 Electrophysiology
 ------
