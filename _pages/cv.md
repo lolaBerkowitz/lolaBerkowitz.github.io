@@ -38,28 +38,6 @@ Work experience
   * Effects of NMDA antagonism on head direction cell landmark anchoring. 
   * Supervisor: Jeffrey Calton, PhD
 
-Skills
-======
-* Programming: Matlab, Python, R, LaTeX
-* Statistical Analysis/Modelling
-  * Dimensionality reduction, classification, regression, analysis of variance, generalized linear modellling. 
-* Electrophysiological recordings
-  * Silicon probes/Neuralynx Halo 18/Custom microdrives
-  * Neuralynx Digital Lynx/Open Ephys
-* Rodent Survival Surgery
-  * Chronic electrode implant
-  * Cannula placement
-  * DREADD Injection 
-* Animal Behavior
-  * Morris water task, Open field, Elevated plus maze, Novel object recognition
-  * Detailed animal movement analysis
-  * DeepLabCut tracking 
-* Histology
-  * Cressyl Violet 
-  * Thioflavin S+ 
-  * Brain extraction & slicing 
-  * Brightfield and fluorescent imaging 
-
 Publications
 ======
 Harvey RE., **Berkowitz, LE.**, Savage, DD., Hamilton, DA., Clark, BJ. (2020). Altered hippocampal place cell representation and theta rhythmicity following moderate prenatal alcohol exposure. *Current Biology*. [link]()
@@ -122,6 +100,28 @@ Au, J., Schneider, A., **Berkowitz-Sutherland, LE.**., Hessl, D., Hagerman, RJ.,
 **Berkowitz-Sutherland, LE.**, Housh, A., Kim, E., Zafar, T., Ramon, C., Ybarra, I.,  and Calton, JL. (2012) The role of NMDA transmission in the experience-dependent plasticity of thalamic head direction cells. Poster Presentation at the Faculty for Undergraduate Neuroscience poster session, Society for Neuroscience Annual Conference, New Orleans, LA.
 
 Kim, E., Housh, A., **Berkowitz-Sutherland, LE.**, and Calton, JL. (2011) Dose-dependent effect of NMDA blockade on the Head Direction System. Poster Presentation at the Faculty for Undergraduate Neuroscience poster session, Society for Neuroscience Annual Conference, Washington DC.
+
+Skills
+======
+* Programming: Matlab, Python, R, LaTeX
+* Statistical Analysis/Modelling
+  * Dimensionality reduction, classification, regression, analysis of variance, generalized linear modellling. 
+* Electrophysiological recordings
+  * Silicon probes/Neuralynx Halo 18/Custom microdrives
+  * Neuralynx Digital Lynx/Open Ephys
+* Rodent Survival Surgery
+  * Chronic electrode implant
+  * Cannula placement
+  * DREADD Injection 
+* Animal Behavior
+  * Morris water task, Open field, Elevated plus maze, Novel object recognition
+  * Detailed animal movement analysis
+  * DeepLabCut tracking 
+* Histology
+  * Cressyl Violet 
+  * Thioflavin S+ 
+  * Brain extraction & slicing 
+  * Brightfield and fluorescent imaging 
 
 Teaching
 ======
