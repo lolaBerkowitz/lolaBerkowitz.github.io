@@ -14,6 +14,11 @@ Hello :) I'm a native Californian who's been living in the high desert of Albuqu
 
 This website serves to summarize my work in translational neuroscience. Peruse the pages and click the links to papers/talks. Happy browsing.   
 
+I am currently search for a postdoctoral position that will start in 2021. 
+
+**Contact**
+[Email](mailto:lberkowitz@unm.edu) | [Twitter](https://twitter.com/lauraberkowitz) | [Github](https://github.com/lolaBerkowitz)
+
 Research Interests
 ------
 
