@@ -12,7 +12,7 @@ Hello and welcome
 ======
 Hello :) I'm a native Californian who's been living in the high desert of Albuquerque, New Mexico since 2015. You can call me Laura (she/her). Aside from my fondness of attractor dynamics, ephys, and detailed behavioral analyses, I'm all about local coffee roasters, vivid hair colors, and growing my own food. 
 
-This website serves to summarize my work in translational neuroscience. Peruse the pages and click the links to papers/talks. If you are actually here for a tutorial on hot pink hair dye - DM me. I totally got you. Otherwise, happy browsing.   
+This website serves to summarize my work in translational neuroscience. Peruse the pages and click the links to papers/talks. Happy browsing.   
 
 Research Interests
 ------
@@ -21,10 +21,10 @@ I study the neural circuity that is thought to support spatial navigation and sp
 
 Electrophysiology
 ------
-<img src="https://github.com/lolaBerkowitz/lolaBerkowitz.github.io/blob/master/images/Visual_HD.png" width="1000px"> 
+<img src="https://github.com/lolaBerkowitz/lolaBerkowitz.github.io/blob/master/images/Visual_HD.png" width="800px"> 
 
 Animal Behavior 
 ------
-
+<img src="https://github.com/lolaBerkowitz/lolaBerkowitz.github.io/blob/master/images/Behavior_example.png" width="800px"> 
 
 
