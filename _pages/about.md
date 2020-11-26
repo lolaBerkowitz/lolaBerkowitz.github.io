@@ -25,7 +25,7 @@ I study the neural circuity that is thought to support spatial navigation and or
 Electrophysiology
 ------
 
-Head direction (HD) cells, shown below, are sometimes described as a neural compass. These cells fire maximally when the head is oriented in a given direction. The plots below show HD cells recorded from rats foraging in an open field. The colored dots represent the location the cell fired color-coded by the animal's head direction.  
+Head direction (HD) cells, shown below, are sometimes described as a neural compass. These cells fire maximally when the head is oriented in a given direction. The plots below show HD cells recorded from rats foraging in an open field. The colored dots represent the location the cell fired color-coded by the animal's head direction, while the polar plots (grey) show firing rate as a function of head direction. Along with other spatially modualted cell types, HD cells are thought to support spatial navigation by providing a neural basis of direction. 
 
 <p align="center">
 <img src="https://lolaBerkowitz.github.io/images/Visual_HD.png" width="800px"> 
