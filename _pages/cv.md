@@ -104,7 +104,7 @@ Kim, E., Housh, A., **Berkowitz-Sutherland, LE.**, and Calton, JL. (2011) Dose-d
 Skills
 ======
 * Programming: Matlab, Python, R, LaTeX
-* Statistical Analysis/Modelling
+* Statistical Analysis/Modeling
   * Dimensionality reduction, classification, regression, analysis of variance, generalized linear modellling. 
 * Electrophysiological recordings
   * Silicon probes/Neuralynx Halo 18/Custom microdrives
