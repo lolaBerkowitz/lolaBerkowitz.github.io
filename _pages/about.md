@@ -28,7 +28,7 @@ Electrophysiology
 Head direction (HD) cells, shown below, are sometimes described as a neural compass. These cells fire maximally when the head is oriented in a given direction. The plots below show HD cells recorded from rats foraging in an open field. The colored dots represent the location the cell fired color-coded by the animal's head direction.  
 
 <p align="center">
-<img src="https://github.com/lolaBerkowitz/lolaBerkowitz.github.io/blob/master/images/Visual_HD.png" width="800px"> 
+<img src="https://lolaBerkowitz.github.io/images/Visual_HD.png" width="800px"> 
 </p>
 
 Animal Behavior 
@@ -37,7 +37,7 @@ Animal Behavior
 Navigation requires knowledge of both environmental landmarks and an animal's current position. Animal movements can reveal critical information about the state of an animal that is navigating an environment. Below depicts a rat's path while exploring an open field with a local cue. While the rat tended to stay near the local cue, the path in the middle of the field shows head sweeping of the environment. This type of information, along with other features obtained from animal tracking, is critical for understanding spatial navigation.
 
 <p align="center">
-<img src="https://github.com/lolaBerkowitz/lolaBerkowitz.github.io/blob/master/images/Behavior_example.png" width="800px"> 
+<img src="https://lolaBerkowitz.github.io/images/Behavior_example.png" width="800px"> 
 </p>
 
 
