@@ -13,21 +13,28 @@ Education
 ======
 * B.Sc. in Neuroscience, California State University Sacramento, 2014
 * M.Sc. in Psychology, University of New Mexico, 2017
-* Ph.D in Psychology, University of New Mexico, 2021 (expected)
+* Ph.D in Psychology, University of New Mexico, 2021
 
 Work experience
 ======
-* 2015 - current, Graduate Student  
+* 2021 - current, Postdoctoral Associate 
+  * Cornell University
+  * Electrophysiological recordings in freely moving mice, detailed behavioral analysis.
+  * Characterization of physiological changes in the hippocampus following rescue of cerebral blood flow in APP/PS1 mice.
+  * Development of closed-loop real-time detection of interictal epileptiform discharges in APP/PS1 mice. 
+  * Mentors: Chris Schaffer, Nozomi Nishimura
+
+* 2015 - 2021, Graduate Student  
   * University of New Mexico
   * Electrophysiological recordings in freely moving rats, detailed behavioral analysis.
   * Logitudinal assessement of spatial navigation deficits in TgF344-AD rats.
   * Integrity of head direction cell attractor dynamics in TgF344-AD rat model of Alzheimer's disease.
   * Mentor: Benjamin J. Clark
   
-* 2012 - 2015: Junior Specialist
+* 2012 - 2015: Clinical Research Coordinator
   * UC Davis MIND Institute
-  * Maintain study protocols, IRB, coordinate patient visits, data collection.
-  * Genotype-phenotype correaltions in Fragile-X premutation carriers.
+  * Maintain study protocols, IRB, recruitment, coordinate patient visits, and data collection.
+  * Genotype-phenotype correlations in Fragile-X premutation carriers.
   * Phase IIa Efficacy and safety of allopregnanolone treatment in individuals with Fragile X-associated Tremor Ataxia Disorder.
   * Phase IIb Efficacy and safety of basmisanil (RG1662) in adults and adolescents with Down syndrome.
   * Supervisor: Randi J. Hagerman, MD
@@ -40,6 +47,8 @@ Work experience
 
 Publications
 ======
+Isaacson, M.*, Chang, H.*, Berkowitz, LE, Zirkel, R., Park, Y., Hu, D., Ellwood, I.,Schaffer, C.B., (2023). MouseGoggles: an immersive virtual reality headset for mouse neuroscience and behavior. Nature Methods, revisions submitted
+
 Harvey RE., **Berkowitz, LE.**, Savage, DD., Hamilton, DA., Clark, BJ. (2020). Altered hippocampal place cell representation and theta rhythmicity following moderate prenatal alcohol exposure. *Current Biology*. [link]()
 
 Harvey RE., **Berkowitz, LE.**, Hamilton, DA., Clark, BJ. (2019). The Effects of Developmental Alcohol Exposure on the Neurobiology of Spatial Processing. *Neuroscience and Biobehavioral Reviews*. [link]()
