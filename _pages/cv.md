@@ -118,6 +118,9 @@ Skills
 * Electrophysiological recordings
   * Silicon probes/Neuralynx Halo 18/Custom microdrives
   * Neuralynx Digital Lynx/Open Ephys
+* Closed-loop optogenetics
+  * Viral injections
+  * Real-time detection and manipulation of hippocampal sharp-wave ripples/interictal spikes
 * Rodent Survival Surgery
   * Chronic electrode implant
   * Cannula placement
