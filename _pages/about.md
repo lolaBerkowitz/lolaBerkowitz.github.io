@@ -18,7 +18,7 @@ Hello! I'm a postdoctoral associate in the Schaffer-Nishimura lab at Cornell Uni
 Research Interests
 ------
 
-I study the neural circuity that supports spatial navigation and orientation, and how these circuits are altered by neurodegenerative processes. What fascinates me most about this topic is how internally generated senses, such as self-motion or head translation, interact with external sensory inputs, such as vision, to create stable representations of position within an environment. I use both detailed behavioral analysis and in-vivo electrophysiological techniques to answer questions relating to *1.) How animals interact with prominent environmental cues during spatial navigation or exploration* and *2.) How the firing dynamics of populations of neurons change as a function of the environment or across time.* 
+I study the neural circuity that supports spatial navigation and orientation, and how these circuits are altered by neurodegenerative processes. What fascinates me most about this topic is how internally generated senses, such as self-motion or head translation, interact with external sensory inputs, such as vision, to create stable representations of position within an environment. I use detailed behavioral analysis and in-vivo electrophysiological techniques to answer questions surrounding *1.) How animals interact with prominent environmental cues during spatial navigation or exploration* and *2.) How the firing dynamics of populations of neurons change as a function of the environment or across time.* 
 
 Electrophysiology
 ------
